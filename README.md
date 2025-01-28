@@ -15,5 +15,14 @@ Nastavení autorizace proti Microsoft Entra ID s použitím OIDC v Node.js aplik
   ```bash
   git@github.com:lukasbalonek/js-entra-auth.git
   ```
+
 * Nastavit proměnné v `.env`. Každá z proměnných má svůj popisek který napovídá co se tam má doplnit.
   > ❗Nastavit si `COOKIE_SECRET` a `SECRET` na vlastní hodnoty.
+
+## Spuštění
+
+* Spustit skript `index.js` pomocí `node`:
+
+  ```bash
+  node index
+  ```
