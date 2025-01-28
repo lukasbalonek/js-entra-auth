@@ -1,0 +1,31 @@
+{
+    "name": "js-entra-auth",
+    "version": "1.0.0",
+    "description": "Basic javascript with Entra ID login",
+    "main": "index.js",
+    "dependencies": {
+      "axios": "^1.7.9",
+      "cookie-parser": "^1.4.7",
+      "crypto-es": "^2.1.0",
+      "dotenv": "^16.4.7",
+      "express": "^4.21.2",
+      "express-session": "^1.18.1"
+    },
+    "devDependencies": {},
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/lukasbalonek/js-entra-auth.git"
+    },
+    "keywords": [
+      "entra",
+      "js",
+      "auth"
+    ],
+    "author": "lukasbalonek",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/lukasbalonek/js-entra-auth/issues"
+    },
+    "homepage": "https://github.com/lukasbalonek/js-entra-auth#readme"
+  }
+  
